@@ -14,14 +14,14 @@ This project classifies restaurants based on their cuisines using a machine lear
 
 ## Project Structure:
 
-
+```
 restaurant-cuisine-classifier/
 ├── app.py
 ├── ML_Model.py
 ├── requirements.txt
 ├── README.md
 ├── dataset.csv
-
+```
 
 
 ## Dataset Information
