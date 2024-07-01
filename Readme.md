@@ -23,7 +23,7 @@ restaurant-cuisine-classifier/
 ├── dataset.csv
 ```
 
-# Streamlit Web Interface:
+## Streamlit Web Interface:
 
 ![image](https://github.com/Blacksujit/Cuisine-s_Predictions_usinng_ML/assets/148805811/55b19462-5633-41e3-8c2c-da5dd0cbcfef)
 
