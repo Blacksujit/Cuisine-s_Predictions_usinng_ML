@@ -71,7 +71,7 @@ The predictive model was trained on the [Restaurant Rating Dataset](https://www.
 
 2. **Train the model**:
     ```bash
-    python train_model.py
+    python ML_Model.ipynb
     ```
     - This script will preprocess the data, train a RandomForestClassifier, perform hyperparameter tuning, and save the best model as `restaurant_cuisine_model.pkl` and the label encoder as `label_encoder.pkl`.
 
